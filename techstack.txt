@@ -1,0 +1,11 @@
+5️⃣ Technologies Used
+
+Python for model training and app logic.
+
+Scikit-learn: RandomForestClassifier, LabelEncoder.
+
+Streamlit for UI.
+
+Pandas & NumPy for data processing.
+
+Pickle for saving/loading model & encoders.
